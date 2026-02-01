@@ -3,3 +3,4 @@
 ---
 
 Generall Info blah blah blah 
+[[party\|party]]
