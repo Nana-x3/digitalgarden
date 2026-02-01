@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/party/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/party/","dgPassFrontmatter":true}
 ---
 
 Name: Mierine wonka and the oompaloompa's
